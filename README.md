@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DUE DATE: November 17, 2019
 
 _Submission must be made by committing your work via Github._
@@ -104,3 +105,7 @@ the model may have overfitted the training data by the end of training.
 
 All your work will be done in the `mnist_models.ipynb` Jupyter notebook.
 
+=======
+# Mnist_Training
+AI training using Mnist data set
+>>>>>>> d35cbf7bb4a1e9d066a562f04fcedeeb9015fddc
