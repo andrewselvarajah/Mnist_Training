@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# DUE DATE: November 17, 2019
-
-_Submission must be made by committing your work via Github._
-
 # Models for MNIST Classification
 
 In this assignment, we will build three models for the digit recognition problem.  The data set will be the MNIST dataset,
@@ -101,9 +96,6 @@ the model may have overfitted the training data by the end of training.
 
 5. Plot 9 samples of (in a 3X3 grid) of the **misclassified** instances of the digit 3.
 
-# Work environment
-
-All your work will be done in the `mnist_models.ipynb` Jupyter notebook.
 
 =======
 # Mnist_Training
